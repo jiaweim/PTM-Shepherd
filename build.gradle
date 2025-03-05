@@ -135,6 +135,5 @@ task printSrcSets(group: 'ptm-shepherd') {
                 println "resources -> ${srcpath}"
             }
         }
-
     }
 }
